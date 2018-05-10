@@ -1,1 +1,2 @@
 alert('gazik');
+alert('pazik');
