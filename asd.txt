@@ -1,6 +1,9 @@
 hello world
 nazik
 serj
+<<<<<<< Updated upstream
 owu.com.ua
+=======
+>>>>>>> Stashed changes
 
 vooohooo
