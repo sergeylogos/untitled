@@ -1,1 +1,1 @@
-alert('nazik');
+alert('gazik');
